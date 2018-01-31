@@ -1,4 +1,4 @@
 function hello() {
-	console.log("Bonjour messieurs et mesdames");
+	console.log("Bonjour modifié depuis v2.0");
 }
 hello();
